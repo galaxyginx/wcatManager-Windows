@@ -1,0 +1,2 @@
+# wcatManager-Windows
+白猫プロジェクト向けに過去に作った縛りやチーム決めツール。Windows用

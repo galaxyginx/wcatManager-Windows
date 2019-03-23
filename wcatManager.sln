@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wcatManager", "wcatManager\wcatManager.csproj", "{76B67644-64AC-40EA-9888-A311DB833DB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wcatCharaDBEditer", "wcatCharaDBEditer\wcatCharaDBEditer.csproj", "{CE837825-2415-4BF9-9104-A3ED0966036F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wcatBasicEditer", "wcatBasicEditer\wcatBasicEditer.csproj", "{C584EA41-D4ED-4704-8FD1-12E27D148DC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76B67644-64AC-40EA-9888-A311DB833DB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76B67644-64AC-40EA-9888-A311DB833DB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76B67644-64AC-40EA-9888-A311DB833DB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76B67644-64AC-40EA-9888-A311DB833DB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE837825-2415-4BF9-9104-A3ED0966036F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE837825-2415-4BF9-9104-A3ED0966036F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE837825-2415-4BF9-9104-A3ED0966036F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE837825-2415-4BF9-9104-A3ED0966036F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C584EA41-D4ED-4704-8FD1-12E27D148DC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C584EA41-D4ED-4704-8FD1-12E27D148DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C584EA41-D4ED-4704-8FD1-12E27D148DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C584EA41-D4ED-4704-8FD1-12E27D148DC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
